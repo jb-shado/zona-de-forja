@@ -177,7 +177,9 @@ Asi que intentamos agregar un **';'** para ver si podemos ejecutar comandos.
 
 ![alt text](img/image-34.png)
 
-Al final usamos el *';'* dos veces y vemos que se ejecuta el comando id. Ahora nos enviamos una revershell.
+Al final usamos el *';'* dos veces y vemos que se ejecuta el comando id. 
+
+Ahora nos enviamos una revershell.
 
 ![alt text](img/image-35.png)
 
